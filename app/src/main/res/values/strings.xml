@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test-Android-SetUp</string>
+    <string name="win_toast">Win!</string>
+    <string name="less_toast">less than correct asnwer!</string>
+    <string name="more_toast">more than correct answer!</string>
+
+
+
+</resources>
